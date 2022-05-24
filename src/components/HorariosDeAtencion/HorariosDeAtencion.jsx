@@ -30,7 +30,7 @@ export const HorariosDeAtencion = () => {
   ];
 
   return (
-    <div>
+    <div className="mt-4">
       <h2>Horarios de Atención</h2>
       <hr className="w-100" />
       <div className="table-responsive">

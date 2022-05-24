@@ -24,11 +24,14 @@ export const Home = () => {
         <Galeria galeria1={galeria1} galeria2={galeria2} galeria3={galeria3} />
       </div>
       <div className="row mt-4">
-        <div className="col-6">
+        <div className="col-md-6 col-sm-12">
           <Map />
         </div>
-        <div className="col-6">
+        <div className="col-md-6 col-sm-12">
           <HorariosDeAtencion />
+        </div>
+        <div />
+        <div className="col-12">
           <Contacto />
         </div>
       </div>
