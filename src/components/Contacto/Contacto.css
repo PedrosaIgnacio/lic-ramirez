@@ -1,0 +1,36 @@
+.contacto__paragraph {
+  color: #cb94c2;
+  padding: 20px;
+}
+.contacto__contacto {
+  border-left: 5px solid #cb94c2;
+}
+.contacto__contacto-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.form-control {
+  border-bottom: 1px solid #cb94c2 !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-radius: 0px !important;
+  outline: none !important;
+}
+.form-control:focus {
+  outline: none !important;
+  outline-width: 0 !important;
+  box-shadow: none;
+}
+.form-control::placeholder {
+  color: #a8a7a9;
+}
+.form-floating::placeholder {
+  color: #a8a7a9;
+}
+.form-floating {
+  color: #a8a7a9;
+}

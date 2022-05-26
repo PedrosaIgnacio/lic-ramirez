@@ -8,7 +8,7 @@ export const AppRouter = () => {
     <BrowserRouter>
       <NavBar />
 
-      <div className="container mt-2">
+      <div className="container-fluid m-0 p-0">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/*" element={<Error />} />

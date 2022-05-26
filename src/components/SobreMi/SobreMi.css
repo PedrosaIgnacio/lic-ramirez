@@ -1,0 +1,30 @@
+.sobre-mi__card {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.sobre-mi__img {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding: 0 80px;
+}
+.sobre-mi__body {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.sobre-mi__title {
+  text-align: center;
+  color: #cb94c2;
+  font-size: large;
+}
+.sobre-mi__paragraph {
+  border-left: 5px solid #cb94c2;
+  padding-left: 10px;
+  color: #a8a7a9;
+  text-align: justify;
+}

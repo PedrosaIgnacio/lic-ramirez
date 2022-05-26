@@ -1,0 +1,45 @@
+.home__first-time-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.home__first-time {
+  padding: 20px;
+  border: 1px solid #cb94c2;
+}
+.home__first-time__paragraph {
+  color: #cb94c2;
+  padding: 20px;
+  text-align: justify;
+}
+.home__consult-appointment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  background-color: #edeeef;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.home__consult-appointment-title {
+  padding: 30px;
+  text-align: center;
+  color: #cb94c2;
+}
+.home__consult-appointment-title-content {
+  font-size: 26px;
+}
+.btn {
+  padding: 10px;
+  color: white;
+}
+.btn-pink {
+  background-color: #cb94c2;
+}
+.btn-pink:hover {
+  background-color: #cb94d2;
+  color: white;
+}
