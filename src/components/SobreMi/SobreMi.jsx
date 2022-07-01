@@ -14,17 +14,28 @@ export const SobreMi = ({ imgAboutMe }) => {
             </strong>
           </h3>
           <p className="sobre-mi__paragraph">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Consequuntur cupiditate sapiente aspernatur libero soluta nihil
-            sequi nobis, eum voluptates similique vero. Voluptas, debitis rem.
-            Perferendis deserunt excepturi adipisci nemo animi! Lorem ipsum
-            dolor sit amet consectetur, adipisicing elit. Deserunt, ullam
-            pariatur, officiis sed eligendi quo eum distinctio iure eos
-            accusantium minima ab inventore. At repellendus repellat porro
-            totam, debitis earum. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Facilis voluptatibus ea debitis at quo vero
-            praesentium harum laudantium cumque necessitatibus iste, tempora
-            veniam hic natus fugiat ut consequuntur quasi? Laudantium.
+            Mi nombre es María Lorena Ramírez, soy Licenciada en Fonoaudiología,
+            egresada de la Universidad Nacional de Córdoba, Argentina. Me
+            desempeño en la intervención y tratamiento de niños y adolescentes
+            con trastornos de la comunicación, del habla y del lenguaje, a
+            partir de un abordaje terapéutico desde un perfil neurolingüístico.
+            Mi profesión me permite estar cerca de los niños, acompañarlos en su
+            camino, ofreciendo lo mejor de mí para que logren expresar el máximo
+            de su potencial. De ellos recibo la mayor de las gratificaciones que
+            me colman de felicidad. Mi objetivo es brindar las herramientas
+            adecuadas para que el niño pueda desarrollar su potencial
+            lingüístico y supere sus dificultades de comunicación.
+            <p className="mt-3">
+              Me considero una persona apasionada por la fonoaudiología,
+              creativa, con iniciativa, proactiva y dinámica. Emprendedora y muy
+              responsable, en continua búsqueda de la superación de las
+              dificultades de los pacientes. Dispongo de gran capacidad de
+              organización y excelencia en el trabajo. Con formación permanente
+              y con gran capacidad de adaptación. Las mismas habilidades
+              adaptativas y comunicativas facilitan el desempeño del trabajo en
+              equipo e interdisciplinario, favoreciendo la evolución y
+              acompañamiento de los pacientes y sus familias.
+            </p>
           </p>
         </div>
       </div>
