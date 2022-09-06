@@ -5,7 +5,7 @@ export const Error = () => {
     <div className="container">
       <h2>Error</h2>
       <hr />
-      <p>Ruta inexistente</p>
+      <p>Ruta inexistente !</p>
     </div>
   );
 };
